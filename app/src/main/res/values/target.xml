@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Target_arrays">
+        <item>--กรุณาลือกภาษาที่ต้องการแปล--</item>
+        <item>Thai</item>
+        <item>English</item>
+        <item>Catalan</item>
+        <item>Chinese (Simplified)</item>
+        <item>Japanese</item>
+    </string-array>
+</resources>
