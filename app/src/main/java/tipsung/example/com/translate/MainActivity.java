@@ -32,7 +32,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
         final Spinner spinner = (Spinner) findViewById(R.id.spinnerTarget);
         final String[] target = getResources().getStringArray(R.array.Target_arrays);
         ArrayAdapter<String> adapterTarget = new ArrayAdapter<String>(this, android.R.layout.simple_dropdown_item_1line, target);
